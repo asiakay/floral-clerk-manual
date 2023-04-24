@@ -1,4 +1,8 @@
 ---
+description: >-
+  To maintain fresh and high-quality products, proper inventory management is
+  crucial. Follow these instructions for effective management and stock control
+  in your floral department.
 cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
 coverY: 0
 ---

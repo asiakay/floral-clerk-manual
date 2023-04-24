@@ -1,4 +1,8 @@
 ---
+description: >-
+  In this section, you will learn how targeted marketing and promotions can
+  drive sales in the floral department through effective advertising and
+  promotional strategies.
 cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
 coverY: 0
 ---
