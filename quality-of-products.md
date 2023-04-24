@@ -1,8 +1,10 @@
 ---
 description: >-
-  The quality of products is crucial in the floral industry, and it's vital to
-  provide fresh and healthy plants and flowers to customers. In this section, we
-  outline the key steps to ensure the highest
+  Introduction: In the floral industry, providing high-quality products is
+  essential. This section outlines the key steps to ensure fresh and healthy
+  plants and flowers for customers.
+cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Quality of Products
