@@ -3,6 +3,8 @@ description: >-
   Promote communication and teamwork by attending meetings and training,
   communicating effectively with team members and management, providing support,
   and sharing feedback.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Communication and Teamwork

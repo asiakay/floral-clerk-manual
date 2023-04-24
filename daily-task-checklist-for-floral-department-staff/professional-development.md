@@ -2,6 +2,8 @@
 description: >-
   Professional development is key to success in the floral industry. Follow
   these steps to enhance your skills, stay informed, and set goals for growth.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Professional Development

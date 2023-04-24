@@ -2,6 +2,8 @@
 description: >-
   Create floral arrangements by following company guidelines, using proper
   techniques, and tagging each arrangement with a PLU price tag.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Floral Arrangement Creation

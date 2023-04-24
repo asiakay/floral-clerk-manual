@@ -2,6 +2,8 @@
 description: >-
   Maintain visual merchandising with eye-catching displays, seasonal offerings,
   and regular updates to showcase new products and promotions.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Maintenance and Cleanliness

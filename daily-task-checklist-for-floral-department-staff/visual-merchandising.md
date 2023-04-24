@@ -2,6 +2,8 @@
 description: >-
   Follow these instructions to maintain visual merchandising in the floral
   department on a daily basis:
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Visual Merchandising

@@ -3,6 +3,8 @@ description: >-
   Sustainable practices attract environmentally conscious customers. Use locally
   grown flowers, biodegradable/reusable packaging, and encourage recycling/reuse
   to reduce environmental impact.
+cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Sustainability

@@ -3,6 +3,8 @@ description: >-
   Customer service is a vital aspect of a successful retail business, and it's
   no different in the floral industry. In this section, we provide instructions
   on how to offer excellent customer service.
+cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Customer Service

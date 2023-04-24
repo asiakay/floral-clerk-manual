@@ -3,6 +3,8 @@ description: >-
   Maintain safety and compliance by following guidelines, using proper lifting
   techniques, reporting incidents, and adhering to company policies and
   regulations.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Safety and Compliance

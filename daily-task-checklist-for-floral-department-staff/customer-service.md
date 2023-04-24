@@ -3,6 +3,8 @@ description: >-
   Provide excellent customer service by greeting customers promptly, answering
   inquiries, assisting in selecting and purchasing, and processing transactions
   efficiently.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Customer Service

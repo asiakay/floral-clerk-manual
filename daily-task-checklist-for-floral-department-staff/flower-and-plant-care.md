@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
+---
+
 # Flower and Plant Care
 
 Follow these instructions to care for flowers and plants in the floral department on a daily basis:

@@ -2,6 +2,8 @@
 description: >-
   In this section, we'll discuss how to improve the visual appeal of your floral
   department to attract customers and boost sales.
+cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Visual Appeal

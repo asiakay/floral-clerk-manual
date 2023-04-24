@@ -2,6 +2,8 @@
 description: >-
   Manage inventory with daily checks, prompt updates, rotation of stock, and
   tagging with prices and dates to ensure freshness and optimal sales.
+cover: ../.gitbook/assets/fresh-flowers-wallpaper.jpg
+coverY: 0
 ---
 
 # Inventory Management
