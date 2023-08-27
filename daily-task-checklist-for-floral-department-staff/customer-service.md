@@ -9,10 +9,14 @@ coverY: 0
 
 # Customer Service
 
-Customer Service Providing excellent customer service is crucial in the retail industry. Follow these instructions to ensure that you are providing top-notch service:
+### **Providing excellent customer service is crucial in the retail floral industry**. &#x20;
 
-Be knowledgeable about the products and offer suggestions and advice to customers. Be friendly and approachable, and greet customers with a smile. Be attentive to customers' needs and preferences, and offer personalized recommendations when appropriate.
+Be warm and approachable, extending a friendly greeting to customers with a genuine smile. Take a moment to introduce yourself, emphasizing your availability to provide assistance and address any inquiries they may have. Ask questions and listen to understand customers' specific goals, needs, and requirements.&#x20;
 
-Providing excellent customer service is crucial in the retail industry. Follow these instructions to ensure that you are providing top-notch service:
+When a customer chooses to explore independently and declines assistance, kindly inform them about your availability should they require any assistance or when they are prepared to finalize their purchase.
 
-Be knowledgeable about the products and offer suggestions and advice to customers. Be friendly and approachable, and greet customers with a smile. Be attentive to customers' needs and preferences, and offer personalized recommendations when appropriate.\
+Take opportunities to learn about the product inventory, floral arrangement design, and bouquet wrapping techniques in order to feel confident about providing the best possible service to your customers.
+
+
+
+\
