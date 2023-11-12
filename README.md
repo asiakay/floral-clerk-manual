@@ -1,8 +1,8 @@
 ---
 description: >-
-  This guide provides a comprehensive approach to a floral department processes
-  in a retail store, covering topics such as product quality, customer service,
-  inventory management, sustainability.
+  This guide presents a comprehensive framework for managing floral department
+  processes within a retail store. Covering essential aspects such as product
+  quality, customer service, inventory management
 cover: .gitbook/assets/fresh-flowers-wallpaper.jpg
 coverY: 0
 ---
